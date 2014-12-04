@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "VERICAR",
+  "short_name": "VERICAR",
+  "description": "A FONTE MAIS CONFIÁVEL PARA CONSULTAR O HISTÓRICO DOS SEUS VEÍCULOS E CLIENTES",
+
+  "version": "0.0.1.0",
+
+  "icons": {
+    "128": "assets/icon_128.png"
+  },
+
+  "app": {
+    "urls":["http://www.vericar.com.br/"],
+    "launch": {
+      "web_url":"http://www.vericar.com.br/"
+    }
+  }
+}
